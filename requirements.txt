@@ -6,7 +6,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 coverage==4.5.4
-Flask==1.1.1
+Flask==2.2.5
 Flask-Admin==1.5.3
 Flask-Bcrypt==0.7.1
 Flask-Login==0.4.1
